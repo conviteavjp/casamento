@@ -9,7 +9,7 @@
 
 const PIX_KEY          = "66.004.012/0001-00";
 const PIX_OWNER        = "Ana Vanessa";
-const GOOGLE_SCRIPT_URL = "COLE_AQUI_A_URL_DO_APPS_SCRIPT";   // URL do Web App do Apps Script
+const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzrjYG89dLlKJiKyFTNoyBOGb1a9-jMx25OWzg2uzRyAQ9fLnMug3UdDhuyeyP7gVwk/exec";
 const WEDDING_DATE     = new Date("2026-06-05T16:00:00");      // Data e hora da cerimônia
 
 /* ===================== LISTA DE PRESENTES ===================== */
